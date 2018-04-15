@@ -1,6 +1,6 @@
 # Jekyll Doc Theme
 
-Go to [the website](https://aksakalli.github.io/jekyll-doc-theme/) for detailed information and demo.
+Go to [the website](https://gmu-ldlg.github.io) for detailed information and demo.
 
 ## Running locally
 
