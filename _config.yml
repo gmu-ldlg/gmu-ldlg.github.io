@@ -2,8 +2,7 @@
 title: Language Documentation Lab Group at George Mason University
 email: sschrei2@gmu.edu
 description: >
-  Language Documentation Lab Group
-  at George Mason University.
+  Your description goes here
 
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: https://gmu-ldlg.github.io # the base hostname & protocol for your site
